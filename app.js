@@ -1,7 +1,7 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import passport from 'passport';
-require('./server/models');
+
 
 const print = console;
 
